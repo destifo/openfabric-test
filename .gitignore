@@ -1,0 +1,24 @@
+# Gradle files
+gradle/
+.gradle/
+build/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+
+.vscode/
+
+# Logs and temporary files
+logs/
+tmp/
+# *.log
+*.tmp
+application.properties
+
+# Other files
+.DS_Store
